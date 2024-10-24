@@ -6,7 +6,6 @@ def outer(parameter):
 
     return inner
 
-    
-var = 2
-fun = outer(var)
+
+fun = outer(2)
 print(fun())

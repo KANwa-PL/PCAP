@@ -1,3 +1,0 @@
-This is my text file.
-I am using a simple text file to learn how to count characters.
-Some fancy characters coming up: Ś, ć, ź, and ń.

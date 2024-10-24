@@ -16,9 +16,7 @@ except IOError as e:
 try:
     bf = open('file.bin', 'rb')
     bytes = bf.read(10)
-    print(
-        bytes
-    )
+    print(bytes)
     bf.close()
 except IOError as e:
     print("I/O error occurred:", strerror(e.errno))
